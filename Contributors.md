@@ -91,6 +91,7 @@
 - Here2Dance (http://github.com/Here2Dance)
 - Elijah Kotyluk
 - [dragoFireup](https://github.com/dragoFireup)
+- [CVanderWoude](https://github.com/CVanderWoude)
 - [Kailee]
 - [JawnMarc](https://github.com/JawnMarc)
 - [Katarina Käll](https://github.com/katarinakall)
